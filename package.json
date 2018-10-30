@@ -1,0 +1,8 @@
+{
+  "name": "grace_ministry_graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mfebrianto/grace_ministry_graphql.git",
+  "author": "mfebrianto <michaelfebrianto@gmail.com>",
+  "license": "MIT"
+}
