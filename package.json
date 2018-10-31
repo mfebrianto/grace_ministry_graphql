@@ -5,6 +5,10 @@
   "repository": "git@github.com:mfebrianto/grace_ministry_graphql.git",
   "author": "mfebrianto <michaelfebrianto@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "insert-seed-data": "cd seed-data && node batch_insert.js"
+  },
   "dependencies": {
     "apollo-server-lambda": "1.3.2",
     "apollo-tracing": "^0.0.9",
